@@ -1,0 +1,7 @@
+Test suite war-tests: RUNNING...
+Cases: 10  Tried: 0  Errors: 0  Failures: 0Cases: 10  Tried: 1  Errors: 0  Failures: 0Cases: 10  Tried: 2  Errors: 0  Failures: 0Cases: 10  Tried: 3  Errors: 0  Failures: 0                                           ### Error in:   3:test4
+lib\War.hs:67:24-42: Non-exhaustive patterns in h1 : w1 : t1'
+
+Cases: 10  Tried: 4  Errors: 1  Failures: 0Cases: 10  Tried: 5  Errors: 1  Failures: 0Cases: 10  Tried: 6  Errors: 1  Failures: 0Cases: 10  Tried: 7  Errors: 1  Failures: 0Cases: 10  Tried: 8  Errors: 1  Failures: 0Cases: 10  Tried: 9  Errors: 1  Failures: 0                                           Cases: 10  Tried: 10  Errors: 1  Failures: 0
+Test suite war-tests: FAIL
+Test suite logged to: C:\Users\patze\OneDrive\Desktop\school\year3\winter\cps506\war_hs\dist-newstyle\build\x86_64-windows\ghc-9.2.5\war-0.1.0.0\t\war-tests\test\war-0.1.0.0-war-tests.log
